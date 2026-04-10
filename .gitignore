@@ -1,0 +1,21 @@
+# Python ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary Data / Tool Specific 
+catboost_info/
+*.feather
+.DS_Store
+
+# (Note: keeping .pkl and .csv files tracked as they are currently needed by app.py)
