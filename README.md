@@ -27,8 +27,8 @@ By combining real-time inventory tracking with predictive analytics, this system
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/TahfimJuwel/Inventory-demand-forecasting-Dashboard.git
+   cd Inventory-demand-forecasting-Dashboard
    ```
 
 2. **Install dependencies**:
